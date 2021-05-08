@@ -8,7 +8,7 @@ public class Day3_1
 	public Day3_1()
 	{
 		this(1);
-		System.out.println("This is default constructor");
+		System.out.println("This is default constructor.");
 	}
 	
 	public Day3_1(int a)
